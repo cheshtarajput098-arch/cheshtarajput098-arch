@@ -4,15 +4,15 @@
   <br/><br/>
 
   <a href="https://linkedin.com/in/cheshtarajput">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="mailto:cheshtarajput098@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
   <a href="https://github.com/cheshtarajput098-arch">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-00F5D4?style=flat-square&logo=googlemaps&logoColor=black" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-161b22?style=for-the-badge&logo=googlemaps&logoColor=00F5D4" alt="Location"/>
 </div>
 
 <br/>
@@ -21,11 +21,10 @@
 
 ### 👩‍💻 About Me
 
-Engineering student at **Ramaiah Institute of Technology (MSRIT), Bengaluru** (*CGPA: 8.4 / 10.0*), focusing on **Human-Centered AI**, **LLM Architecture**, and **Quantum Computing**.
+Engineering student at **Ramaiah Institute of Technology (MSRIT), Bengaluru** (*CGPA: 8.4 / 10.0*), specializing in **Artificial Intelligence**, **Machine Learning**, and **Large Language Models (LLMs)**.
 
 - 🔬 **Research Intern @ IISc Bengaluru**: Building LLM components for **Project Prana** (AI-powered yoga & breathing guidance).
 - 🌾 **AI/ML Research Intern @ Samagama (IIT Ropar)**: Developing PyTorch & Hugging Face ML pipelines for AgriTech & Healthcare diagnostics.
-- ⚛️ **Quantum & Cosmology Research**: Authoring synthesis research on Quantum Computing algorithms & astrophysics.
 - 🎙️ **IIT Bombay Representative**: Selected among 100+ candidates for national parliamentary debate competition.
 
 ---
@@ -38,8 +37,8 @@ Engineering student at **Ramaiah Institute of Technology (MSRIT), Bengaluru** (*
 | :--- | :--- |
 | **Languages** | `Python` `C++` `Java` `SQL` |
 | **AI / ML & NLP** | `PyTorch` `Hugging Face` `OpenCV` `Scikit-Learn` `NumPy` `Pandas` |
-| **LLMs & Multi-Agent** | `RAG` `LangChain` `Prompt Engineering` `OpenAI API` |
-| **Quantum & Cloud** | `Qiskit` `AWS Bedrock` `Git` `Docker` `Linux` |
+| **LLMs & Frameworks** | `RAG` `LangChain` `Prompt Engineering` `OpenAI API` |
+| **Cloud & Tools** | `AWS Bedrock` `Git` `Docker` `Linux` |
 
 </div>
 
@@ -62,10 +61,10 @@ Engineering student at **Ramaiah Institute of Technology (MSRIT), Bengaluru** (*
 > 
 > `PyTorch` • `Time Series` • `Scikit-Learn`
 
-#### 🤖 [Multi-Agent Customer Service](https://github.com/cheshtarajput098-arch) — Autonomous Support Workflow
-> Collaborative multi-agent workflow featuring intent classification, emotion-aware dialogue, and context-persistent memory.
+#### 🤖 [Customer Service AI System](https://github.com/cheshtarajput098-arch) — Autonomous Support Workflow
+> Collaborative AI workflow featuring intent classification, sentiment analysis, and context-persistent dialogue memory.
 > 
-> `LangChain` • `Multi-Agent Design` • `NLP`
+> `LangChain` • `LLM Agents` • `NLP`
 
 ---
 
