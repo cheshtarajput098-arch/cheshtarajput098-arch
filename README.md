@@ -1,23 +1,13 @@
 <div align="center">
   <img src="./assets/header.svg" width="100%" alt="Cheshta Rajput Header"/>
-
   <br/><br/>
-
-  <a href="https://linkedin.com/in/cheshtarajput">
-    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:cheshtarajput098@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://github.com/cheshtarajput098-arch">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://linkedin.com/in/cheshtarajput"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+  <a href="mailto:cheshtarajput098@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="https://github.com/cheshtarajput098-arch"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Location-161b22?style=for-the-badge&logo=googlemaps&logoColor=00F5D4" alt="Location"/>
 </div>
 
-<br/>
-
----
+<br/><br/>
 
 ### 👩‍💻 About Me
 
