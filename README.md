@@ -3,9 +3,6 @@
   
   <br/><br/>
 
-  <h1>Cheshta Rajput</h1>
-  <p><b>Human-Centered AI • LLMs & Multi-Agent Systems • Quantum Computing</b></p>
-
   <a href="https://linkedin.com/in/cheshtarajput">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -67,7 +64,7 @@ Engineering student at **Ramaiah Institute of Technology (MSRIT), Bengaluru** (*
 > `PyTorch` • `Time Series` • `Scikit-Learn`
 
 #### 🤖 [Multi-Agent Customer Service](https://github.com/cheshtarajput098-arch) — Autonomous Support Workflow
-> Collaborative multi-agent workflow featuring intent detection, emotion-aware dialogue, and context-persistent memory.
+> Collaborative multi-agent workflow featuring intent classification, emotion-aware dialogue, and context-persistent memory.
 > 
 > `LangChain` • `Multi-Agent Design` • `NLP`
 
