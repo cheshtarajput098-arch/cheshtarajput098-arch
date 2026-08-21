@@ -1,5 +1,18 @@
 <div align="center">
   <img src="./assets/header.svg" width="100%" alt="Cheshta Rajput Header"/>
+
+  <br/><br/>
+
+  <a href="https://linkedin.com/in/cheshtarajput">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:cheshtarajput098@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/cheshtarajput098-arch">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-00F5D4?style=flat-square&logo=googlemaps&logoColor=black" alt="Location"/>
 </div>
 
 <br/>
