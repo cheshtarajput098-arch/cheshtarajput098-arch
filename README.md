@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Cheshta Rajput</h1>
-  <p><b>Human-Centered AI • LLMs & Multi-Agent Systems • Quantum Computing</b></p>
+  <img src="./assets/header.svg" width="100%" alt="Cheshta Rajput Header"/>
+
+  <br/><br/>
 
   <a href="https://linkedin.com/in/cheshtarajput">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
