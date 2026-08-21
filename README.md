@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="Cheshta Rajput Banner" style="border-radius: 10px;"/>
-  
-  <br/><br/>
+  <h1>Cheshta Rajput</h1>
+  <p><b>Human-Centered AI • LLMs & Multi-Agent Systems • Quantum Computing</b></p>
 
   <a href="https://linkedin.com/in/cheshtarajput">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -13,7 +12,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-00F5D4?style=flat-square&logo=googlemaps&logoColor=black" alt="Location"/>
-
 </div>
 
 <br/>
