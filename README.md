@@ -8,8 +8,8 @@
 
 Engineering student at **Ramaiah Institute of Technology (MSRIT), Bengaluru** (*CGPA: 8.4 / 10.0*), specializing in **Artificial Intelligence**, **Machine Learning**, and **Large Language Models (LLMs)**.
 
-- 🔬 **Research Intern @ IISc Bengaluru**: Building LLM components for **Project Prana** (AI-powered yoga & breathing guidance).
-- 🌾 **AI/ML Research Intern @ Samagama (IIT Ropar)**: Developing PyTorch & Hugging Face ML pipelines for AgriTech & Healthcare diagnostics.
+- 🔬 **Research Intern @ IISc Bengaluru**: Building LLM-based systems and AI components under faculty guidance.
+- 🌾 **AI/ML Research Intern @ IIT Ropar**: Developing PyTorch & Hugging Face ML pipelines for computer vision diagnostics and yield prediction models.
 - 🎙️ **IIT Bombay Representative**: Selected among 100+ candidates for national parliamentary debate competition.
 
 ---
